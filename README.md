@@ -9,11 +9,11 @@ In this repository, we provide a venue to make sure that mistakes in evaluation 
 Go directly to the list of recorded [issues with individual sample](sample_issues.md) or the reported [entire dataset issues](dataset_issues.md).
 
 ## Table of contents
-- [What kind of issues can I report?](https://github.com/dieuwkehupkes/that_is_good_data#what-kind-of-issues-can-i-report)
-- [How do I report issues?](https://github.com/dieuwkehupkes/that_is_good_data#how-do-i-report-issues-with-evaluation-datasets)
-    - [Reporting issues with individual examples](https://github.com/dieuwkehupkes/that_is_good_data#reporting-issues-with-individual-examples-in-evaluation-datasets)
-    - [Reporting entire dataset issues](https://github.com/dieuwkehupkes/that_is_good_data#reporting-entire-dataset-issues)
-- [Helping out](https://github.com/dieuwkehupkes/that_is_good_data#helping-out)
+- [What kind of issues can I report?](https://github.com/huggingface/that_is_good_data#what-kind-of-issues-can-i-report)
+- [How do I report issues?](https://github.com/huggingface/that_is_good_data#how-do-i-report-issues-with-evaluation-datasets)
+    - [Reporting issues with individual examples](https://github.com/huggingface/that_is_good_data#reporting-issues-with-individual-examples-in-evaluation-datasets)
+    - [Reporting entire dataset issues](https://github.com/huggingface/that_is_good_data#reporting-entire-dataset-issues)
+- [Helping out](https://github.com/huggingface/that_is_good_data#helping-out)
 
 
 ## What kind of issues can I report?
