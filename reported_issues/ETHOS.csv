@@ -1,0 +1,3 @@
+Dataset name, Dataset link, Sample ID / Link, Sample / relevant sample part, Issue , (Language affected), Could this issue be fixed?, Contributor
+ETHOS, https://huggingface.co/datasets/ethos, https://huggingface.co/datasets/ethos/viewer/binary/train?row=769, """She's a really courageous woman! She is one of the most impressive women I've ever listened to. [...]""", "incorrectly processed symbols", English, "Yes (manual review)", "Yuchen Zhang"
+ETHOS, https://huggingface.co/datasets/ethos, https://huggingface.co/datasets/ethos/viewer/binary/train?row=987, """[...] when you'¬Ä¬ôre happy, bike when you'¬Ä¬ôre sad [...]""", "incorrectly processed symbols", English, "Yes (manual review)", "Yuchen Zhang"
