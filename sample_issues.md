@@ -3,7 +3,7 @@
 On this page, you can find reported issues with individual examples in evaluation datasets.
 Note: this initiative just started!
 Please help by reporting more issues!
-Check instructions to do so [here](https://github.com/dieuwkehupkes/that_is_good_data#reporting-issues-with-individual-examples-in-evaluation-datasets).
+Check instructions to do so [here](https://github.com/huggingface/that_is_good_data#reporting-issues-with-individual-examples-in-evaluation-datasets).
 
 ## [DROP](reported_issues/DROP.csv)
 
@@ -29,4 +29,4 @@ Number of issues reported: 2, languages affected: English.
 
 Number of issues reported: 1, language affected: English.
 
-[Go back to main page](https://github.com/dieuwkehupkes/that_is_good_data).
+[Go back to main page](https://github.com/huggingface/that_is_good_data).

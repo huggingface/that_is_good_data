@@ -3,7 +3,7 @@
 This repository drives on community reports of issues with datasets, so we would not only love, but need your contributions!
 
 ## Reporting issues with evaluation data
-If you'd like to report an issue with an evaluation dataset, please refer to [this page](https://github.com/dieuwkehupkes/that_is_good_data#how-do-i-report-issues-with-evaluation-datasets).
+If you'd like to report an issue with an evaluation dataset, please refer to [this page](https://github.com/huggingface/that_is_good_data#how-do-i-report-issues-with-evaluation-datasets).
 By contributing to this repository, you agree that your submission will be available under the same license as this repository, which can be find [here](LICENSE).
 
 ## Helping out with validating reported issues

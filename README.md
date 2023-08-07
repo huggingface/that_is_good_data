@@ -70,4 +70,4 @@ Apart from reporting issues with datasets, we are also looking for people that c
 For more information, check the [contributions file](CONTRIBUTING.md)
 
 ## Initiators of this initiative
-This initiative was set up by [Dieuwke Hupkes](https://dieuwkehupkes.nl), [Xenia Ohmer](https://scholar.google.com/citations?user=leBLcgYAAAAJ&hl=en), [Thomas Wolf](https://thomwolf.io/) and [Adina Williams](https://scholar.google.com/citations?user=MUtbKt0AAAAJ&hl=en).
+This initiative was set up by [Dieuwke Hupkes](https://dieuwkehupkes.nl), [Xenia Ohmer](https://xeniaohmer.github.io/), [Thomas Wolf](https://thomwolf.io/) and [Adina Williams](https://scholar.google.com/citations?user=MUtbKt0AAAAJ&hl=en).
