@@ -18,8 +18,8 @@ Go directly to the list of recorded [issues with individual sample](sample_issue
 
 ## What kind of issues can I report?
 At the moment, we keep track of two types of dataset issues:
-- **Issues with individual examples** (e.g. the input sentence is ambiguous wrt label, the input is incomprehensible, the label is incorrect or it is not clear why it should be prefered over another label). While we first start with collecting these examples, our eventual aim is to make sure they also get *corrected* or removed from the dataset in question.
-- Known (and published) issues/problems that pertain to datasets as a whole (e.g. strong correlation between labels and lexical items, strong contamination in commonly used training corpora). Depending on what a dataset is used for, biases may not always be problematic, but it is nevertheless always good to be aware of.
+- **Issues with individual examples** (e.g. the input sentence is ambiguous wrt the label, the input is incomprehensible, the label is incorrect or it is not clear why it should be preferred over another label). While we first start with collecting these examples, our eventual aim is to make sure they also get *corrected* or removed from the dataset in question.
+- Known (and published) issues/problems that pertain to datasets as a whole (e.g. strong correlation between labels and lexical items, strong contamination in commonly used training corpora). Depending on what a dataset is used for, biases may not always be problematic, but it is nevertheless always good to be aware of them.
 
 For the moment, we collect individual mistakes in a series of spreadsheets, that can be found on the [individual sample issues](sample_issues.md) page. 
 If a dataset is not listed on this page this implies no errors have been reported for it yet (in this repository).
@@ -28,7 +28,7 @@ Issues with entire datasets are recorded on the [entire dataset issues page](dat
 If a dataset is not listed on this page, it means we have not received any input on biases in these datasets.
 
 ## How do I report issues with evaluation datasets?
-For the time being, there are two options for contributing isues/mistakes/biases to this dataset:
+For the time being, there are two options for contributing issues/mistakes/biases to this dataset:
 - Create an issue on this repository
 - Fill in [this form](https://forms.gle/CjhzTsRVQCVghHgC6)
 
